@@ -1,0 +1,96 @@
+-------------------------------------------------
+ nench.sh v2019.03.01 -- https://git.io/nench.sh
+ benchmark timestamp:    2019-06-23 22:00:26 UTC
+-------------------------------------------------
+
+Processor:    Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz
+CPU cores:    4
+Frequency:    1703.275 MHz
+RAM:          3.8Gi
+Swap:         8.4Gi
+Kernel:       Linux 4.14.124-1-MANJARO x86_64
+
+Disks:
+loop0   89.3M  HDD
+loop1   88.4M  HDD
+loop2      3M  HDD
+sda  119.2G  SSD
+
+CPU: SHA256-hashing 500 MB
+    1.959 seconds
+CPU: bzip2-compressing 500 MB
+    5.015 seconds
+CPU: AES-encrypting 500 MB
+    2.495 seconds
+
+ioping: seek rate
+    min/avg/max/mdev = 130.7 us / 173.9 us / 16.3 ms / 119.7 us
+ioping: sequential read speed
+    generated 4.87 k requests in 5.00 s, 1.19 GiB, 974 iops, 243.7 MiB/s
+
+dd: sequential write speed
+    1st run:    183.11 MiB/s
+    2nd run:    158.31 MiB/s
+    3rd run:    151.63 MiB/s
+    average:    164.35 MiB/s
+
+IPv4 speedtests
+    your IPv4:    82.8.135.xxxx
+
+    Cachefly CDN:         12.53 MiB/s
+    Leaseweb (NL):        12.34 MiB/s
+    Softlayer DAL (US):   6.73 MiB/s
+    Online.net (FR):      12.39 MiB/s
+    OVH BHS (CA):         7.67 MiB/s
+
+No IPv6 connectivity detected
+-------------------------------------------------
+
+-------------------------------------------------
+ nench.sh v2019.03.01 -- https://git.io/nench.sh
+ benchmark timestamp:    2019-06-23 22:01:51 UTC
+-------------------------------------------------
+
+Processor:    Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz
+CPU cores:    4
+Frequency:    1829.220 MHz
+RAM:          3.8Gi
+Swap:         8.4Gi
+Kernel:       Linux 4.14.124-1-MANJARO x86_64
+
+Disks:
+loop0   89.3M  HDD
+loop1   88.4M  HDD
+loop2      3M  HDD
+sda  119.2G  SSD
+
+CPU: SHA256-hashing 500 MB
+    1.955 seconds
+CPU: bzip2-compressing 500 MB
+    4.954 seconds
+CPU: AES-encrypting 500 MB
+    2.462 seconds
+
+ioping: seek rate
+    min/avg/max/mdev = 123.4 us / 172.6 us / 270.9 us / 22.0 us
+ioping: sequential read speed
+    generated 4.79 k requests in 5.00 s, 1.17 GiB, 957 iops, 239.5 MiB/s
+
+dd: sequential write speed
+    1st run:    185.01 MiB/s
+    2nd run:    168.80 MiB/s
+    3rd run:    181.20 MiB/s
+    average:    178.34 MiB/s
+
+IPv4 speedtests
+    your IPv4:    82.8.135.xxxx
+
+    Cachefly CDN:         12.06 MiB/s
+    Leaseweb (NL):        13.01 MiB/s
+    Softlayer DAL (US):   5.10 MiB/s
+    Online.net (FR):      12.45 MiB/s
+    OVH BHS (CA):         8.58 MiB/s
+
+No IPv6 connectivity detected
+-------------------------------------------------
+

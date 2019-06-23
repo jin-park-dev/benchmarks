@@ -1,0 +1,62 @@
+[3J[H[2J----------------------------------------------------------------------
+CPU model            : [0;36mIntel(R) Core(TM) i3-2120 CPU @ 3.30GHz[0m
+Number of cores      : [0;36m4[0m
+CPU frequency        : [0;36m1728.169 MHz[0m
+Total size of Disk   : [0;36m113.5 GB (65.2 GB Used)[0m
+Total amount of Mem  : [0;36m3910 MB (2182 MB Used)[0m
+Total amount of Swap : [0;36m8602 MB (289 MB Used)[0m
+System uptime        : [0;36m1 days, 23 hour 51 min[0m
+Load average         : [0;36m0.22, 0.08, 0.02[0m
+OS                   : [0;36mManjaro Linux [0m
+Arch                 : [0;36mx86_64 (64 Bit)[0m
+Kernel               : [0;36m4.14.124-1-MANJARO[0m
+----------------------------------------------------------------------
+I/O speed(1st run)   : [0;33m185 MB/s[0m
+I/O speed(2nd run)   : [0;33m160 MB/s[0m
+I/O speed(3rd run)   : [0;33m163 MB/s[0m
+Average I/O speed    : [0;33m169.3 MB/s[0m
+----------------------------------------------------------------------
+Node Name                       IPv4 address            Download Speed
+[0;33mCacheFly                        [0;32m205.234.175.175         [0;31m13.3MB/s      [0m
+[0;33mLinode, Tokyo, JP               [0;32m106.187.96.148          [0;31m9.41MB/s      [0m
+[0;33mLinode, Singapore, SG           [0;32m139.162.23.4            [0;31m11.2MB/s      [0m
+[0;33mLinode, London, UK              [0;32m176.58.107.39           [0;31m13.1MB/s      [0m
+[0;33mLinode, Frankfurt, DE           [0;32m139.162.130.8           [0;31m13.0MB/s      [0m
+[0;33mLinode, Fremont, CA             [0;32m50.116.14.9             [0;31m11.1MB/s      [0m
+[0;33mSoftlayer, Dallas, TX           [0;32m173.192.68.18           [0;31m7.92MB/s      [0m
+[0;33mSoftlayer, Seattle, WA          [0;32m67.228.112.250          [0;31m7.07MB/s      [0m
+[0;33mSoftlayer, Frankfurt, DE        [0;32m159.122.69.4            [0;31m12.4MB/s      [0m
+[0;33mSoftlayer, Singapore, SG        [0;32m119.81.28.170           [0;31m7.13MB/s      [0m
+[0;33mSoftlayer, HongKong, CN         [0;32m119.81.130.170          [0;31m6.26MB/s      [0m
+----------------------------------------------------------------------
+[3J[H[2J----------------------------------------------------------------------
+CPU model            : [0;36mIntel(R) Core(TM) i3-2120 CPU @ 3.30GHz[0m
+Number of cores      : [0;36m4[0m
+CPU frequency        : [0;36m1604.480 MHz[0m
+Total size of Disk   : [0;36m113.5 GB (65.2 GB Used)[0m
+Total amount of Mem  : [0;36m3910 MB (2020 MB Used)[0m
+Total amount of Swap : [0;36m8602 MB (289 MB Used)[0m
+System uptime        : [0;36m1 days, 23 hour 53 min[0m
+Load average         : [0;36m0.39, 0.28, 0.11[0m
+OS                   : [0;36mManjaro Linux [0m
+Arch                 : [0;36mx86_64 (64 Bit)[0m
+Kernel               : [0;36m4.14.124-1-MANJARO[0m
+----------------------------------------------------------------------
+I/O speed(1st run)   : [0;33m189 MB/s[0m
+I/O speed(2nd run)   : [0;33m166 MB/s[0m
+I/O speed(3rd run)   : [0;33m175 MB/s[0m
+Average I/O speed    : [0;33m176.7 MB/s[0m
+----------------------------------------------------------------------
+Node Name                       IPv4 address            Download Speed
+[0;33mCacheFly                        [0;32m205.234.175.175         [0;31m13.3MB/s      [0m
+[0;33mLinode, Tokyo, JP               [0;32m106.187.96.148          [0;31m9.34MB/s      [0m
+[0;33mLinode, Singapore, SG           [0;32m139.162.23.4            [0;31m7.88MB/s      [0m
+[0;33mLinode, London, UK              [0;32m176.58.107.39           [0;31m13.2MB/s      [0m
+[0;33mLinode, Frankfurt, DE           [0;32m139.162.130.8           [0;31m11.4MB/s      [0m
+[0;33mLinode, Fremont, CA             [0;32m50.116.14.9             [0;31m11.0MB/s      [0m
+[0;33mSoftlayer, Dallas, TX           [0;32m173.192.68.18           [0;31m7.58MB/s      [0m
+[0;33mSoftlayer, Seattle, WA          [0;32m67.228.112.250          [0;31m9.63MB/s      [0m
+[0;33mSoftlayer, Frankfurt, DE        [0;32m159.122.69.4            [0;31m12.1MB/s      [0m
+[0;33mSoftlayer, Singapore, SG        [0;32m119.81.28.170           [0;31m8.05MB/s      [0m
+[0;33mSoftlayer, HongKong, CN         [0;32m119.81.130.170          [0;31m7.27MB/s      [0m
+----------------------------------------------------------------------
