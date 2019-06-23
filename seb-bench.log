@@ -1,0 +1,38 @@
+[3J[H[2J----------------------------------------------------------------------
+CPU model            : [0;36mIntel(R) Atom(TM) CPU  C2750  @ 2.40GHz[0m
+Number of cores      : [0;36m2[0m
+CPU frequency        : [0;36m2393.902 MHz[0m
+Total size of Disk   : [0;36m46.4 GB (20.3 GB Used)[0m
+Total amount of Mem  : [0;36m1990 MB (602 MB Used)[0m
+Total amount of Swap : [0;36m4095 MB (27 MB Used)[0m
+System uptime        : [0;36m2 days, 0 hour 32 min[0m
+Load average         : [0;36m0.20, 0.35, 0.18[0m
+OS                   : [0;36mUbuntu 18.04.2 LTS[0m
+Arch                 : [0;36mx86_64 (64 Bit)[0m
+Kernel               : [0;36m4.15.0-52-generic[0m
+----------------------------------------------------------------------
+I/O speed(1st run)   : [0;33m154 MB/s[0m
+I/O speed(2nd run)   : [0;33m154 MB/s[0m
+I/O speed(3rd run)   : [0;33m160 MB/s[0m
+Average I/O speed    : [0;33m156.0 MB/s[0m
+----------------------------------------------------------------------
+Node Name                       IPv4 address            Download Speed
+[0;33mCacheFly                        [0;32m205.234.175.175         [0;31m63.2MB/s      [0m
+[0;33mLinode, Tokyo, JP               [0;32m106.187.96.148          [0;31m4.52MB/s      [0m
+[0;33mLinode, Singapore, SG           [0;32m139.162.23.4            [0;31m9.04MB/s      [0m
+[0;33mLinode, London, UK              [0;32m176.58.107.39           [0;31m70.0MB/s      [0m
+[0;33mLinode, Frankfurt, DE           [0;32m139.162.130.8           [0;31m66.6MB/s      [0m
+[0;33mLinode, Fremont, CA             [0;32m50.116.14.9             [0;31m14.8MB/s      [0m
+[0;33mSoftlayer, Dallas, TX           [0;32m173.192.68.18           [0;31m10.0MB/s      [0m
+[0;33mSoftlayer, Seattle, WA          [0;32m67.228.112.250          [0;31m8.14MB/s      [0m
+[0;33mSoftlayer, Frankfurt, DE        [0;32m159.122.69.4            [0;31m43.1MB/s      [0m
+[0;33mSoftlayer, Singapore, SG        [0;32m119.81.28.170           [0;31m4.91MB/s      [0m
+[0;33mSoftlayer, HongKong, CN         [0;32m119.81.130.170          [0;31m5.87MB/s      [0m
+----------------------------------------------------------------------
+Node Name                       IPv6 address            Download Speed
+[0;33mLinode, Atlanta, GA             [0;32m2600:3c02::4b           [0;31m17.4MB/s      [0m
+[0;33mLinode, Dallas, TX              [0;32m2600:3c00::4b           [0;31m18.5MB/s      [0m
+[0;33mLinode, Newark, NJ              [0;32m2600:3c03::4b           [0;31m27.5MB/s      [0m
+[0;33mLinode, Singapore, SG           [0;32m2400:8901::4b           [0;31m9.45MB/s      [0m
+[0;33mLinode, Tokyo, JP               [0;32m2400:8900::4b           [0;31m8.81MB/s      [0m
+[0;33mSoftlayer, San Jose, CA         [0;32m2607:f0d0:2601:2a::4    [0;31m7.32MB/s      [0m
